@@ -9,6 +9,8 @@
 	\metashaders2
 	\fxo
 
+	Clearing Kneeboards from every available map.
+	
 	+ I bear no responsibility.
 	+	The use of the program is at your own risk and responsibility.
 
@@ -21,6 +23,8 @@
 	\temp
 	\metashaders2
 	\fxo
+	
+	Εκκαθάριση Kneeboards από κάθε διαθέσιμο χάρτη.
 
 	+ Δεν φέρω καμία ευθύνη.
 	+ Η χρήση του προγράμματος γίνεται με δική σας ευθύνη και ευθύνη.
