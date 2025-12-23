@@ -3,18 +3,19 @@
 https://github.com/astrolavos1998/CLEAR-TRASH-DCS
 
 [ENG]
-	Cleans files that affect the performance of DCS World and free up storage space.
+Cleans files that affect the performance of DCS World and frees up storage space.
 
 	\Tracks
 	\Logs
 	\temp
 	\metashaders2
 	\fxo
-
-	Clearing Kneeboard from every available map.
 	
+	Clear Kneeboard from every available map.
+	It now keeps the paths originally given for \Saved Games and the DCS World installation. 
+
 	+ I bear no responsibility.
-	+	The use of the program is at your own risk and responsibility.
+	+ Use of the program is at your own risk and responsibility.
 
 
 [GR]
@@ -27,10 +28,11 @@ https://github.com/astrolavos1998/CLEAR-TRASH-DCS
 	\fxo
 	
 	Εκκαθάριση Kneeboard από κάθε διαθέσιμο χάρτη.
+	Πλέον κρατάει τις διαδρομές που δίνεται αρχικά για το \Saved Games και την εγκατάσταση του DCS World. 
 
 	+ Δεν φέρω καμία ευθύνη.
 	+ Η χρήση του προγράμματος γίνεται με δική σας ευθύνη και ευθύνη.
 
 
 
-CLEAN TRASH - DCS v.1.6.® 2025© for LOCK-ON GREECE by =GR= Astr0
+CLEAN TRASH - DCS v.1.12.® 2025© for LOCK-ON GREECE by =GR= Astr0
